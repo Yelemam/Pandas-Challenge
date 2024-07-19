@@ -1,5 +1,4 @@
 # Pandas-Challenge
-# Pandas-Challenge
 
 Having the starter code was definitely very helpful, the variable names were almost half of the work. It took me awhile to put the script together. I think one of the challenges with pandas is bracets, square brackets and parenthesis- placing them correctly and making sure to open and close them every time. So is keeping track of the variable names. As there was alot of repetition it was easier to copy paste a code once I figured it out and just change variable name. Arithmatic is easy with pandas; so is cleaning up the data, filtering, doing calculations and playing around with the dataframe and what we need to be displayed is great, but finding the right function is a challenge- especially for a beginner. I struggled couple of times and asked AI on the bootcamp portal to help fix the code. One thing that I needed help with is converting the Per Student budget into object and removing the $ of the Per Student Budget in order to be able to use pd.cut to categorize spending based on the bins (AI helped with this task).
 
